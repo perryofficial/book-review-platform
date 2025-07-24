@@ -37,3 +37,5 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application that allows 
 │   │   └── App.js
 │
 └── .env
+<img width="1863" height="673" alt="image" src="https://github.com/user-attachments/assets/ce5f9681-8981-4ad7-a55c-d8d4a1b54ed8" />
+<img width="1911" height="617" alt="image" src="https://github.com/user-attachments/assets/19cb78d0-8c8e-41b2-9c1e-41616de5d7cc" />
