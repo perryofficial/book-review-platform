@@ -25,7 +25,9 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application that allows 
 /book-review-system
 │
 ├── backend
-│   ├── controllers
+│   ├── controllers<img width="1877" height="709" alt="Screenshot 2025-07-25 013152" src="https://github.com/user-attachments/assets/72f353cc-9a97-4235-960e-fadc8b417065" />
+<img width="1911" height="617" alt="Screenshot 2025-07-25 012949" src="https://github.com/user-attachments/assets/c8eda726-b72d-48bd-a967-4285227ed826" />
+
 │   ├── models
 │   ├── routes
 │   └── server.js
@@ -37,4 +39,3 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application that allows 
 │   │   └── App.js
 │
 └── .env
-<img width="1877" height="709" alt="image" src="https://github.com/user-attachments/assets/d4fc542b-5c99-4923-8854-7103b478d003" />
